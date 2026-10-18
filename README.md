@@ -1,6 +1,7 @@
 # MAX × GREEN-API
 
-👀 https://max-client-green-api.vercel.app/ 👀
+- [👀 Ссылка на результат 👀](https://max-client-green-api.vercel.app/)
+
 Минимальный веб-клиент для обмена текстовыми сообщениями в MAX. React 19, TypeScript в строгом режиме, Vite, Zod. Адаптивный интерфейс по мотивам MAX Web: список чатов, личная переписка, создание диалога по номеру телефона.
 
 ## Запуск
